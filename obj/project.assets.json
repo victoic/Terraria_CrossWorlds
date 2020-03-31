@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Victor Lundgren\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Victor Lundgren\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrossWorlds\\CrossWorlds.csproj",
+      "projectName": "CrossWorlds",
+      "projectPath": "C:\\Users\\Victor Lundgren\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrossWorlds\\CrossWorlds.csproj",
+      "packagesPath": "C:\\Users\\Victor Lundgren\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Victor Lundgren\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrossWorlds\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Victor Lundgren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net451"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net451": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net451": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

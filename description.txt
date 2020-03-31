@@ -1,0 +1,4 @@
+Cross Worlds is a world sychronization mod, our objective is to unify worlds as a multiverse.
+Right now synchronized worlds share Moon Phase and Time of day, so you can leave one world anc go to another and time continues where you stopped!
+Only selected worlds are synchronized. To sync a world go to mod menu and set the "Sync this World?" option to On. That's it.
+Do this to all worlds you want and they are synced. Have fun!
