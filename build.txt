@@ -1,3 +1,4 @@
 displayName = Cross Worlds
 author = Victoic
-version = 0.3
+version = 0.3.1
+homepage = https://github.com/victoic/Terraria_CrossWorlds
